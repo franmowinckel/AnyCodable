@@ -1,7 +1,5 @@
 # AnyCodable
 
-[![Build Status][build status badge]][build status]
-[![License][license badge]][license]
 [![Swift Version][swift version badge]][swift version]
 
 Type-erased wrappers for `Encodable`, `Decodable`, and `Codable` values.
