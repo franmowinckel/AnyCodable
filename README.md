@@ -3,9 +3,6 @@
 [![Build Status][build status badge]][build status]
 [![License][license badge]][license]
 [![Swift Version][swift version badge]][swift version]
-![Cocoapods platforms][cocoapods platforms badge]
-[![Cocoapods compatible][cocoapods badge]][cocoapods]
-[![Carthage compatible][carthage badge]][carthage]
 
 Type-erased wrappers for `Encodable`, `Decodable`, and `Codable` values.
 
